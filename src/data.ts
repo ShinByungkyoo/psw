@@ -18,19 +18,19 @@ export const PORTAL_LINKS: PortalLink[] = [
     accentColor: '#10B981', // Emerald
   },
   {
-    title: '최고위원 관련 문서',
+    title: '캠프 회의 자료',
     url: 'https://docs.google.com/document/d/1owiGB72dAIst50UUdJrMdWN3PA3O701Ud__ZwIqjlwM/edit?tab=t.0',
-    description: '더불어민주당 최고위원 후보 박승원의 공식 비전, 후보 출마 선언서 및 활동 계획을 확인하실 수 있습니다.',
+    description: '더불어민주당 최고위원 후보 박승원 캠프의 공식 회의 자료와 주요 논의 사항을 실시간으로 확인하실 수 있습니다.',
     iconName: 'FileText',
-    badgeText: '공식 문서',
+    badgeText: '회의록',
     accentColor: '#F59E0B', // Amber
   },
   {
-    title: 'PSW 관련 핵심 자료',
-    url: 'https://docs.google.com/document/d/1ThJrRWo5VJdULVW-UrB0b_LrzAGqG87g_oD7IqfLWk4/edit?tab=t.0',
-    description: '자치분권 강화를 핵심 가치로 하는 박승원(PSW)의 핵심 정책 및 자치분권 최고위원의 디테일 제안서입니다.',
+    title: 'PSW 온라인 동향',
+    url: 'https://docs.google.com/presentation/d/1WglCsEX9sNSc4Bb7LN5qmgqCinLMi44eYUd1tzrEjB0/edit?hl=ko&slide=id.g3f54981c16c_0_19#slide=id.g3f54981c16c_0_19',
+    description: '박승원(PSW) 후보의 온라인 여론 동향 및 주요 관심 유입 키워드 브리핑 자료를 확인하실 수 있습니다.',
     iconName: 'ShieldCheck',
-    badgeText: '핵심 공약',
+    badgeText: '동향 브리핑',
     accentColor: '#EF4444', // Red
   },
 ];
